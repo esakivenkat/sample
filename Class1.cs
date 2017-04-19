@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+
+
 namespace HealthCareServices.Models
 {
      <add key="connectionString" value="Data Source=WEB-SERVER\SQLEXPRESS;Initial Catalog=Freshers;User ID=fresher;Pwd=fresher"/>
